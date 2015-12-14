@@ -1,0 +1,5 @@
+1. Install ArduPilot-Arduino-1.03-windows IDE which contain all the drivers of Ard-mu-copter
+
+2. Change your File-> Preferences to the path you install your IDE
+
+3. Compile and upload to APM
